@@ -12,3 +12,5 @@ Just give it a name and it will find you a torrent of the requested media on the
 in µtorrent or show you all the results in your browser.
 
 That's all... (and yes that's illegal)
+
+Have a nice day.
