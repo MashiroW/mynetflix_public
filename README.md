@@ -10,7 +10,7 @@ This small app searchs in your computer the name of the movie/episode of a serie
 It can also be used as a movie/serie/anime downloader. 
 Just give it a name and it will find you a torrent of the requested media on the Internet then you can choose to open magnet
 in µtorrent or show you all the results in your browser.
-I don't think it's supported yet on linux (just telling)
+I don't think it's supported on linux yet (just telling)
 
 That's all... (and yes that's illegal)
 
